@@ -1,0 +1,4 @@
+Hola este es un ejemplo de 
+como poder abrir y leer un archivo desde PythonAqui se agrego mas informacion al archivo
+Aqui se agrego mas informacion al archivo
+Aqui se agrego mas informacion al archivo
